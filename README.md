@@ -13,6 +13,7 @@ This project is a content management system designed for news websites. With its
 ## Installation
 
 English: Currently in development
+
 Turkish: [Haber Yazılımı](https://eniyihaberyazilimi.com.tr/haber-yazilimi-nedir/)
 
 
